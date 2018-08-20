@@ -7,6 +7,7 @@ Interactive and Online Buffer Analytics of Large Spatial Data. [Online demo](htt
 | -------------- | ---------- | ------------------- |
 | OSM_Spain_Road | LineString | 42,497,196 segments |
 | OSM_Spain_POI  | Point      | 355,105 points      |
+
 [From OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)
 
 
