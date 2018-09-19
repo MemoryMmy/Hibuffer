@@ -6,14 +6,14 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 
 ## [Online Demo](http://www.higis.org.cn:8080/hibuffer/) 
 
-***Tab1. Roads and POI of Spain from [OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)***
+***Tab1. Datasets: Roads and POI of Spain from [OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)***
 
 | Name           | Type       | Size                |
 | -------------- | ---------- | ------------------- |
 | OSM_Spain_Road | LineString | 42,497,196 segments |
 | OSM_Spain_POI  | Point      | 355,105 points      |
 
-***Tab2.  Environment***
+***Tab2.  Demo Environment***
 
 | Item             | Description                                                  |
 | ---------------- | ------------------------------------------------------------ |
