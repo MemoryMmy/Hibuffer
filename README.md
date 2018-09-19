@@ -7,9 +7,8 @@ real-time buffer analysis. An efficient buffer generation method, which introduc
 
 ## Datasets & Environment of the Demo 
 
-***[Tab1. Dataset](https://download.geofabrik.de/europe/spain-latest.osm.pbf) ***
+***Tab1. Dataset*** [From OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)
 =======
-***Tab1. dataset***    [From OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)
 | Name           | Type       | Size                |
 | -------------- | ---------- | ------------------- |
 | OSM_Spain_Road | LineString | 42,497,196 segments |
