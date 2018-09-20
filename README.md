@@ -2,6 +2,8 @@
 Buffer analysis is a fundamental function in geographic information system (GIS), which identifies areas by
 surrounding geographic features in a given distance. Real-time buffer analysis for large scale spatial data remains a challenging problem since the computational scales of conventional data-oriented methods expand rapidly with data volumes. In this program, we present a visualization-oriented model, HiBuffer, for real-time buffer analysis. Experiments on real-world datasets show that our approach can reduce computation time by up to orders of magnitude while preserving better visualization effects. An demonstration of HiBuffer is provided on the Web.
 
+
+
 ## [Online Demo](http://www.higis.org.cn:8080/hibuffer/) 
 
 ***Tab1. Datasets: Roads and POI of Spain from [OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)***
@@ -64,6 +66,12 @@ Shell scripts to start/stop the buffer analysis WMTS automatically:
 > ```shell
 > $ sh ./stop.sh
 > ```
+
+
+
+## Open Source
+
+The computer code of our HIBuffer will be fully open source in the future. 
 
 
 
