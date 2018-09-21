@@ -71,7 +71,7 @@ Shell scripts to start/stop the buffer analysis WMTS automatically:
 
 ## Open Source
 
-The computer code of our HIBuffer will be fully open source in the future. 
+The computer code of HiBuffer will be open source in the future. 
 
 
 
