@@ -41,7 +41,7 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 
 [Geospatial Data Abstraction Library (GDAL)](http://www.gdal.org/) >=2.0 (recommended version 2.1.2)
 
-[libpng](http://www.libpng.org/pub/png//libpng.html)(recommended version 1.2.59)
+[libpng](http://www.libpng.org/pub/png//libpng.html) (recommended version 1.2.59)
 
 
 
