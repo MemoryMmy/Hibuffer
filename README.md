@@ -1,6 +1,6 @@
 # HiBuffer
 Buffer analysis is a fundamental function in geographic information system (GIS), which identifies areas by
-surrounding geographic features in a given distance. Real-time buffer analysis for large scale spatial data remains a challenging problem since the computational scales of conventional data-oriented methods expand rapidly with data volumes. In this program, we present a visualization-oriented model, HiBuffer, for real-time buffer analysis. Experiments on real-world datasets show that our approach can reduce computation time by up to orders of magnitude while preserving better visualization effects. An demonstration of HiBuffer is provided on the Web. The core code of HiBuffer is implemented using the **C++** language.
+surrounding geographic features in a given distance. Real-time buffer analysis for large scale spatial data remains a challenging problem since the computational scales of conventional data-oriented methods expand rapidly with data volumes. In this program, we present a visualization-oriented model, HiBuffer, for real-time buffer analysis. Experiments on real-world datasets show that our approach can reduce computation time by up to orders of magnitude while preserving better visualization effects. An demonstration of HiBuffer is provided on the Web. The core code of HiBuffer is implemented using the ***C++*** language.
 
 
 
