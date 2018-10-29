@@ -22,9 +22,7 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 | Operating System | Centos7                                          |
 
 
-## Undergoing Work
-
-[Online Demo: HiOverlay-Interactive and Online Overlay Analytics](http://www.higis.org.cn:8080/hioverlay/)
+## [Undergoing Work: HiOverlay-Interactive and Online Overlay Analytics](http://www.higis.org.cn:8080/hioverlay/)
 
 
 ## Usage
