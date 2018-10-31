@@ -73,7 +73,7 @@ Shell scripts to start/stop the buffer analysis WMTS automatically:
 
 The computer code of HiBuffer will be open source in the future. 
 
-## Undergoing Work: [Interactive and Online Overlay Analytics](https://github.com/MemoryMmy/HiOverlay) ([Online Demo](http://www.higis.org.cn:8080/hioverlay/))
+## Undergoing Work: [Interactive and Online Buffer and Overlay Analytics](https://github.com/MemoryMmy/HiBO) ([Online Demo](http://www.higis.org.cn:8080/hioverlay/))
 
 ## Contact:
 
