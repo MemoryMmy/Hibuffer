@@ -75,7 +75,7 @@ The computer code of HiBuffer will be open source in the future.
 
 ## Undergoing Work: 
 ### 1, [Interactive and Online Buffer and Overlay Analytics](https://github.com/MemoryMmy/HiBO) ([Online Demo](http://www.higis.org.cn:8080/hibo/))
-### 2, Buffer analysis of polygon objects.
+### 2, Buffer analysis of polygon objects (comming soon).
 
 ## Contact:
 
