@@ -73,6 +73,11 @@ Shell scripts to start/stop the buffer analysis WMTS automatically:
 
 The computer code of HiBuffer will be open source in the future. 
 
+## Citation
+
+Ma M, Wu Y, et al. HiBuffer: Buffer Analysis of 10-Million-Scale Spatial Data in Real Time[J]. International Journal of Geo-Information, 2018, 7(12):467. DOI: 10.3390/ijgi7120467
+
+
 ## Undergoing Work: 
 ### 1, [Interactive and Online Buffer and Overlay Analytics](https://github.com/MemoryMmy/HiBO) ([Online Demo](http://www.higis.org.cn:8080/hibo/))
 ### 2, Buffer analysis of polygon objects (comming soon).
