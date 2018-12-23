@@ -14,7 +14,7 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 | OSM_Spain_POI  | Point      | 355,105    | 355,105 points      |
 
 
-***Tab2. Datasets of [Demo 2](http://www.higis.org.cn:8080/hibuffer10million/): Roads, POI and farmland of Mainland China (10-million-scale)***
+***Tab2. Datasets of [Demo 2](http://www.higis.org.cn:8080/hibuffer10million/): Roads, POI and Farmland of Mainland China (10-million-scale)***
 
 | Name           | Type       | Records    | Size                |
 | -------------- | ---------- | ---------- | ------------------- |
