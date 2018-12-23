@@ -4,9 +4,9 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 
 
 
-## Online Demo [Demo1](http://www.higis.org.cn:8080/hibuffer/) [Demo2](http://www.higis.org.cn:8080/hibuffer10million/)
+## Online Demo
 
-***Tab1. Datasets of Online Demo 1: Roads and POI of Spain from [OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)***
+***Tab1. Datasets of Online [Demo 1](http://www.higis.org.cn:8080/hibuffer/): Roads and POI of Spain from [OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)***
 
 | Name           | Type       | Size                |
 | -------------- | ---------- | ------------------- |
@@ -14,7 +14,7 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 | OSM_Spain_POI  | Point      | 355,105 points      |
 
 
-***Tab2. Datasets of Online Demo 2: Roads, POI and farmland of Mainland China***
+***Tab2. Datasets of Online [Demo 2](http://www.higis.org.cn:8080/hibuffer10million/): Roads, POI and farmland of Mainland China***
 
 | Name           | Type       | Size                |
 | -------------- | ---------- | ------------------- |
