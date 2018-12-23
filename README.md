@@ -8,19 +8,19 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 
 ***Tab1. Datasets of [Demo 1](http://www.higis.org.cn:8080/hibuffer/): Roads and POI of Spain from [OpenStreetMap](https://download.geofabrik.de/europe/spain-latest.osm.pbf)***
 
-| Name           | Type       | Size                |
-| -------------- | ---------- | ------------------- |
-| OSM_Spain_Road | LineString | 42,497,196 segments |
-| OSM_Spain_POI  | Point      | 355,105 points      |
+| Name           | Type       | Records    | Size                |
+| -------------- | ---------- | ---------- | ------------------- |
+| OSM_Spain_Road | LineString | 3,132,496  | 42,497,196 segments |
+| OSM_Spain_POI  | Point      | 355,105    | 355,105 points      |
 
 
-***Tab2. Datasets of [Demo 2](http://www.higis.org.cn:8080/hibuffer10million/): Roads, POI and farmland of Mainland China***
+***Tab2. Datasets of [Demo 2](http://www.higis.org.cn:8080/hibuffer10million/): Roads, POI and farmland of Mainland China (10-million-scale)***
 
-| Name           | Type       | Size                |
-| -------------- | ---------- | ------------------- |
-| China_Road     | LineString | 163,171,928segments |
-| China_POI      | Point      | 20,258,450 points   |
-| China_Polygon  | Polygon    | 133,830,561 edges   |
+| Name           | Type       | Records    | Size                |
+| -------------- | ---------- | ---------- | ------------------- |
+| China_Road     | LineString | 21,898,508 | 163,171,928segments |
+| China_POI      | Point      | 20,258,450 | 20,258,450 points   |
+| China_Polygon  | Polygon    | 10,520,644 | 133,830,561 edges   |
 
 
 ***Tab3.  Demo Environment***
