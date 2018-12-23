@@ -20,7 +20,7 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 | -------------- | ---------- | ---------- | ------------------- |
 | China_Road     | LineString | 21,898,508 | 163,171,928 segments|
 | China_POI      | Point      | 20,258,450 | 20,258,450 points   |
-| China_Polygon  | Polygon    | 10,520,644 | 133,830,561 edges   |
+| China_Farmland | Polygon    | 10,520,644 | 133,830,561 edges   |
 
 
 ***Tab3.  Demo Environment***
