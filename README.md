@@ -33,52 +33,6 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 
 
 
-## Usage
-
-### Software dependencies:
-
-[uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/Install.html) (recommended version 2.0)
-
-[Redis](https://redis.io) (recommended version 3.2.12)
-
-[hiredis](https://github.com/redis/hiredis) (recommended version 0.13.3)
-
-[redis-py](https://redislabs.com/lp/python-redis/) (recommended version 2.7.2)
-
-[MPICH](http://www.mpich.org/) (recommended version 3.0.4)
-
-[Boost C++ Libraries](https://www.boost.org/) (recommended version 1.64)
-
-[Geospatial Data Abstraction Library (GDAL)](http://www.gdal.org/) >=2.0 (recommended version 2.1.2)
-
-[libpng](http://www.libpng.org/pub/png//libpng.html) (recommended version 1.2.59)
-
-
-
-### Compile:
-
-Make sure that the header and lib files of **hiredis**, **libpng**, **MPICH**, **Boost** and **GDAL** are included in the **Makefile**, then run the following command to generate the executable program:
-
-> ```shell
-> $ make clean && make
-> ```
-
-
-
-### Run& Stop:
-
-Shell scripts to start/stop the buffer analysis WMTS automatically:
-
-> ```shell
-> $ sh ./start.sh
-> ```
-
-> ```shell
-> $ sh ./stop.sh
-> ```
-
-
-
 ## Open Source
 
 The computer code of HiBuffer will be open source in the future. 
