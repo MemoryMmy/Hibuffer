@@ -48,5 +48,3 @@ Mengyu Ma@ National University of Defense Technology
 Email: mamengyu10@nudt.edu.cn
 
 Tel:+8615507487344
-
-To be open source in the future. 
