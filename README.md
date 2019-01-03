@@ -49,4 +49,4 @@ Email: mamengyu10@nudt.edu.cn
 
 Tel:+8615507487344
 
-### The computer code of HiBuffer will be open source in the future. 
+To be open source in the future. 
