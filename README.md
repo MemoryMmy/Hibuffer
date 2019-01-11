@@ -39,7 +39,7 @@ Ma M, Wu Y, et al. HiBuffer: Buffer Analysis of 10-Million-Scale Spatial Data in
 
 
 ## Follow-up Work: 
-### [Interactive and Online Buffer and Overlay Analytics（support polygon objects）](https://github.com/MemoryMmy/HiBO) ([Online Demo](http://www.higis.org.cn:8080/hibo/))
+### [Interactive and Online Buffer and Overlay Analytics](https://github.com/MemoryMmy/HiBO) ([Online Demo](http://www.higis.org.cn:8080/hibo/))
 
 ## Contact:
 
