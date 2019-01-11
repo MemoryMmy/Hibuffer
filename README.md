@@ -38,7 +38,7 @@ surrounding geographic features in a given distance. Real-time buffer analysis f
 Ma M, Wu Y, et al. HiBuffer: Buffer Analysis of 10-Million-Scale Spatial Data in Real Time[J]. International Journal of Geo-Information, 2018, 7(12):467. DOI: 10.3390/ijgi7120467
 
 
-## Undergoing Work: 
+## Follow-up Work: 
 ### [Interactive and Online Buffer and Overlay Analytics（support polygon objects）](https://github.com/MemoryMmy/HiBO) ([Online Demo](http://www.higis.org.cn:8080/hibo/))
 
 ## Contact:
